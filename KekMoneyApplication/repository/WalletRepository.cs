@@ -1,7 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore;
-using SmithTrade.entities;
+﻿using KekMoneyApplication.entities;
+using Microsoft.EntityFrameworkCore;
+using KekMoneyApplication.entities;
 
-namespace SmithTrade.repository;
+namespace KekMoneyApplication.repository;
 
 public class WalletRepository : DbContext
 {

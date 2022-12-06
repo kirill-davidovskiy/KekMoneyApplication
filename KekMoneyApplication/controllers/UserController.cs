@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using SmithTrade.dto;
-using SmithTrade.repository;
+using KekMoneyApplication.dto;
+using KekMoneyApplication.repository;
 
-namespace SmithTrade.controllers
+namespace KekMoneyApplication.controllers
 {
     [Route("api/[controller]")]
     [ApiController]

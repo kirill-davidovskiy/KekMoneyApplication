@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using SmithTrade.repository;
+using KekMoneyApplication.repository;
 
-namespace SmithTrade
+namespace KekMoneyApplication
 {
     public static class Program
     {

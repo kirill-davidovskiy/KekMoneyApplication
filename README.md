@@ -17,5 +17,9 @@ Right now application provides such functionality:
 TODO: 
 1) Add token for session
 2) Display Transactions;
-3) Move logic from Stored Procedures to Services; 
-4) UI (???)
+3) Improve error handling
+4) Refactor API architecture;
+5) Remove redundant annotations
+6) Add profiles
+7) Move logic from Stored Procedures to Services; 
+8) UI (???)

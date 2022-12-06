@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SmithTrade.entities;
+using KekMoneyApplication.entities;
 
-namespace SmithTrade.repository;
+namespace KekMoneyApplication.repository;
 
 public class TransferRepository : DbContext
 {

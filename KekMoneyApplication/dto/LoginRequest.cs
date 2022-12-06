@@ -1,4 +1,4 @@
-﻿namespace SmithTrade.dto;
+﻿namespace KekMoneyApplication.dto;
 
 public class LoginRequest
 {

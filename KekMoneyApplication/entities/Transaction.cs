@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 
-namespace SmithTrade.entities;
+namespace KekMoneyApplication.entities;
 
 [Table("Transactions", Schema = "Lab4")]
 public class Transaction

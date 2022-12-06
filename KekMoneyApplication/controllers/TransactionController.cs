@@ -1,15 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using SmithTrade.dto;
-using SmithTrade.entities;
-using SmithTrade.repository;
+using KekMoneyApplication.dto;
+using KekMoneyApplication.repository;
 
-namespace SmithTrade.controllers
+namespace KekMoneyApplication.controllers
 {
     [Route("api/[controller]")]
     [ApiController]
